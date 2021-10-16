@@ -1,14 +1,19 @@
 # MOIST PROBLEM
+
 M1 – UTKARSH SHRIVASTAWA 
+
 M2 – AKSHAYA K
+
 M3 – RITURAJ SAHA
+
 M4 – AYUSH BHARDWAJ 
+
 M5 – SURYA PRASATH B
 
-## Abstract:
+# Abstract:
 A collaborative project to learn open-source applications and implement them. Moist problem is an interactive coding question that we have used to analyse it and use it as an aid to learn other open-source applications such as git and GitHub. We have also used other open-source applications such as nano, vim and libre office to complete this project. Collaborating together as a team using git and GitHub towards solving the above problem.
 
-## Problem:
+# Problem:
 Moist has his childish collection of cards and its too large to keep in one disorganized pile. The problem is moist can't sort the cards because some are rather expensive and could cause damage to the cards. 
 So he convinced Dr. Horrible to build a horrible robot that sorts the cards but charge his $1 whenever it has to move a trading card during the sorting process.
 Moist is almost broke, but keeping his trading cards in order is the only remaining joy in his sad life. He needs to know how mych it would cost him to use the robot to sort the deck of cards.
